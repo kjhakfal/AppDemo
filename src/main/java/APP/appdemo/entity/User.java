@@ -8,6 +8,9 @@ public class User {
 
     private Long id;
 
+    //邮箱
+    private String email;
+
     //网名
     private String username;
 
